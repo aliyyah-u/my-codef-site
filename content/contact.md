@@ -2,7 +2,7 @@
 title: "Contact"
 date: 2022-07-12T14:54:52+01:00
 menu: "main"
-draft: true
+draft: false
 ---
 
 This crochet blog is not a business so no need to contact me :) Happy crocheting!

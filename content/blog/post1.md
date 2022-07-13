@@ -16,6 +16,7 @@ Here is a simple list of equipment:
 	- The 3 for 2 sales are great
 - Internet
 	- So that you can use youtube to teach you 
+	- I first used [Bella Coco's youtube channel](https://www.youtube.com/channel/UCQEzmjboJ_6-uG8-1j4coNw)
 
 And that's it!
 
