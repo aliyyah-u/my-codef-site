@@ -21,8 +21,25 @@ And that's it!
 
 Here are some pictures of my equipment just because.
 
-![hook4](hook4.JPG)
+First off is my first crochet hook (4mm size):
 
+![hook4](../hook4.JPG)
 
+And here is some other equipment of mine that aren't exactly necessary but I've collected over the years:
+- Different sized hooks for different sized wools/ or if you want to make your tension of your work tighter or looser
+	- This year I brought a size 3.5mm and 6mm
+- stitch holder
+	- For when you want to put a pause in your work
+- Some tapesty needles
+	- To weave in your ends
+	- I also have some plastic ones but these ones in the pictures are best
+- some scissors
+- my crochet bag
+	- I kept this from an airplane journey - it was a freebie XD
 
-
+![hook3.5](../hook3.5.JPG)
+![hook6](../hook6.JPG)
+![stitch_holder](../stitch_holder.JPG)
+![needles](../needles.JPG)
+![scissors](../scissors.JPG)
+![bag](../bag.JPG)
