@@ -23,7 +23,7 @@ Here are a few pictures of my projects:
 
 ![babyset1](babyset1.JPG)
 
-I have a kind of love hate relationship with this hobby and this quote pretty much sums it up XD:
+I have a kind of love hate relationship with this hobby and this quote pretty much sums it up 😆:
 
 > I hate crocheting
 >
@@ -54,5 +54,5 @@ You can check out my gitHub page [over here](https://github.com/UAliyyah) to see
 
 **I hope you enjoy your time here, and learn something new.** 
 
-And a little side note - crocheting is not as difficult as it seems (and coding is also very fun!) :D
+And a little side note - crocheting is not as difficult as it seems (and coding is also very fun!) 😁
 

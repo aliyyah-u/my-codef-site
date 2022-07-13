@@ -4,7 +4,7 @@ date: 2022-07-12T15:06:44+01:00
 draft: false
 ---
 
-**This is my first post *(woop woop)***
+{{< author title="This is my first post (woop woop)" author=Aliyyah >}}
 
 I thought I would start off this blog by sharing what I believe you need to begin crocheting.
 
@@ -12,7 +12,7 @@ Here is a simple list of equipment:
 - A crochet hook 
 	- I bought mine from Hobbycraft
 - Some wool
-	- I tend to buy these from Hobbycraft (again) or poundland :)
+	- I tend to buy these from Hobbycraft (again) or poundland 
 	- The 3 for 2 sales are great
 - Internet
 	- So that you can use youtube to teach you 
@@ -36,7 +36,7 @@ And here is some other equipment of mine that aren't exactly necessary but I've 
 	- I also have some plastic ones but these ones in the pictures are best
 - some scissors
 - my crochet bag
-	- I kept this from an airplane journey - it was a freebie XD
+	- I kept this from an airplane journey - it was a freebie 😅
 
 ![hook3.5](../hook3.5.JPG)
 ![hook6](../hook6.JPG)
