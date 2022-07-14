@@ -1,5 +1,5 @@
 ---
-title: "The Coding Crocheter - a Crochet Blog"
+title: "Welcome"
 date: 2022-07-12T10:08:32+01:00
 draft: false
 ---

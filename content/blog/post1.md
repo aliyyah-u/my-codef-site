@@ -1,15 +1,16 @@
 ---
 title: "Getting Started"
 date: 2022-07-12T15:06:44+01:00
+author: "Aliyyah Uddin"
 draft: false
 ---
 
-{{< author title="This is my first post (woop woop)" author=Aliyyah >}}
+**This is my first post (woop woop)!**
 
 I thought I would start off this blog by sharing what I believe you need to begin crocheting.
 
 Here is a simple list of equipment:
-- A crochet hook 
+- A crochet hook
 	- I bought mine from Hobbycraft
 - Some wool
 	- I tend to buy these from Hobbycraft (again) or poundland 
@@ -20,11 +21,13 @@ Here is a simple list of equipment:
 
 And that's it!
 
+
 Here are some pictures of my equipment just because.
 
 First off is my first crochet hook (4mm size):
+![hook4](../images/hook4.JPG)
 
-![hook4](../hook4.JPG)
+
 
 And here is some other equipment of mine that aren't exactly necessary but I've collected over the years:
 - Different sized hooks for different sized wools/ or if you want to make your tension of your work tighter or looser
@@ -38,9 +41,9 @@ And here is some other equipment of mine that aren't exactly necessary but I've 
 - my crochet bag
 	- I kept this from an airplane journey - it was a freebie 😅
 
-![hook3.5](../hook3.5.JPG)
-![hook6](../hook6.JPG)
-![stitch_holder](../stitch_holder.JPG)
-![needles](../needles.JPG)
-![scissors](../scissors.JPG)
-![bag](../bag.JPG)
+![hook3.5](../images/hook3.5.JPG)
+![hook6](../images/hook6.JPG)
+![stitch_holder](../images/stitch_holder.JPG)
+![needles](../images/needles.JPG)
+![scissors](../images/scissors.JPG)
+![bag](../images/bag.JPG)

@@ -48,7 +48,7 @@ This quote also works perfectly for my coding experience:
 > I love programming
 
 
-I coded this website during my CodeF week at RVU :) 
+I coded this website during my CodeF week at RVU 😊 
 
 You can check out my gitHub page [over here](https://github.com/UAliyyah) to see more of my coding work.
 
